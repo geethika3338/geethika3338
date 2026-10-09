@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi, I'm Geethika 👋
 
-<!--
-**geethika3338/geethika3338** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 CSE Undergraduate | Aspiring Software Engineer
 
-Here are some ideas to get you started:
+I'm a computer science student interested in software development, especially Java backend development. I enjoy learning new concepts, building web applications, and improving my problem-solving skills through hands-on practice.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Technologies I'm Learning
+
+- **Languages:** Java, JavaScript
+- **Backend:** Spring Boot, Spring MVC, REST APIs
+- **Database:** MySQL
+- **Web:** HTML, CSS, Bootstrap
+- **Tools:** Git, GitHub, Postman, Maven
+
+### 🚀 Projects
+
+- **[PawPalace](https://github.com/geethika3338/pawpalace-ecommerce)** — A pet products e-commerce web application built with Java, Spring Boot, MySQL, and Thymeleaf.
+- **[Job Portal](https://github.com/geethika3338/job-portal)** — A web application project focused on job listings and application workflows.
+- **[LifeLens AI](https://github.com/Sainithin141015/Lifelens)** — A team project involving simulation, integration, and testing contributions.
+
+### 📚 Currently Working On
+
+- Strengthening Java and object-oriented programming fundamentals
+- Learning Spring Boot and REST API development
+- Practising SQL and data structures
+- Improving my software testing and debugging skills
+
+### 📫 Connect With Me
+
+- GitHub: [@geethika3338](https://github.com/geethika3338)
+
+I'm always open to learning, collaborating, and exploring opportunities to grow as a software developer.
