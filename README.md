@@ -27,6 +27,7 @@ I'm a computer science student interested in software development, especially Ja
 
 ### 📫 Connect With Me
 
-- GitHub: [@geethika3338](https://github.com/geethika3338)
+- **Email:** [geethika3338@gmail.com](mailto:geethika3338@gmail.com)
+- **GitHub:** [@geethika3338](https://github.com/geethika3338)
 
 I'm always open to learning, collaborating, and exploring opportunities to grow as a software developer.
